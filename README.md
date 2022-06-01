@@ -65,7 +65,10 @@ Please refer to our WWW-2015 and SIGIR-2015 paper for more details.
 All text is in traditional Chinese and encoded to UTF8.
 
 # Download
-Please go to [resources page](http://nlg.csie.ntu.edu.tw/m01-corpus/) to access resources.
+[Spam detection for first posts](http://nlg.csie.ntu.edu.tw/m01-corpus/first_post.zip)<br />
+[Spam detection for replies](http://nlg.csie.ntu.edu.tw/m01-corpus/reply.zip)<br />
+[Spammer detection](http://nlg.csie.ntu.edu.tw/m01-corpus/spammer.zip)<br />
+[thread_info](http://nlg.csie.ntu.edu.tw/m01-corpus/thread_info.json)
 
 # How to Cite the Corpus
 Please cite the following two papers when referring to the Mobile01 Corpus in academic publications and papers.
